@@ -1,4 +1,4 @@
-# librarymanagementsystem
+
 📚 Library Management System – Data Structures & Algorithms Project
 
 The Library Management System is a DSA-based project that demonstrates efficient data handling, organization, and retrieval techniques, essential for software development and information management. This project applies core DSA principles to real-world scenarios such as:
